@@ -1,12 +1,16 @@
 {
   "name": "reyun-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "reyunh5-track.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuSyen/reyun-sdk"
+  },
   "keywords": [],
-  "author": "",
+  "author": "syen",
   "license": "ISC"
 }
